@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["sudix"]
   spec.email         = ["sudix7755@gmail.com"]
 
-  spec.summary       = %q{A convinient error handling util for Rails.}
+  spec.summary       = %q{A tiny error handling util for Rails.}
   spec.description   = %q{log the error's message and stack traces, and execute a given block.}
   spec.homepage      = "https://github.com/sudix/rails-err-handler"
   spec.license       = "MIT"
